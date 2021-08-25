@@ -1,17 +1,4 @@
 "schedule" : {
-    "01" : {
-      "sDateText" : "1st Round    17-Oct-21",
-      "sFastImageView" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Sri_Lanka_Cricket_logo.svg/1200px-Sri_Lanka_Cricket_logo.svg.png",
-      "sFastOver" : "",
-      "sFastScore" : "",
-      "sFastTeamName" : "Sri ",
-      "sResultText" : "1st Match Group A",
-      "sResultUrl" : "",
-      "sSecendImageview" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Cricket_Ireland_logo.svg/1200px-Cricket_Ireland_logo.svg.png",
-      "sSecendOver" : "",
-      "sSecendScore" : "",
-      "sSecendTeamName" : "Ire"
-    },
     "02" : {
       "sDateText" : "1st Round   18-Oct-21",
       "sFastImageView" : "https://s.ndtvimg.com/images/entities/300/papua-new-guinea-105091.png",
