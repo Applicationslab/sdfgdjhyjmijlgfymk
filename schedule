@@ -167,19 +167,6 @@
       "sSecendOver" : "",
       "sSecendScore" : "",
       "sSecendTeamName" : "Pak"
-    },
-    "14" : {
-      "sDateText" : "Super 12  18 October 2021",
-      "sFastImageView" : "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Cricket_India_Crest.svg/1200px-Cricket_India_Crest.svg.png",
-      "sFastOver" : "",
-      "sFastScore" : "",
-      "sFastTeamName" : "IN",
-      "sResultText" : "Group 2",
-      "sResultUrl" : "",
-      "sSecendImageview" : "https://files.softicons.com/download/web-icons/flags-icons-by-wolfgang-bartelme/png/216/za.png",
-      "sSecendOver" : "",
-      "sSecendScore" : "",
-      "sSecendTeamName" : "SA"
     }
   }
   
