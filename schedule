@@ -154,19 +154,6 @@
       "sSecendOver" : "",
       "sSecendScore" : "",
       "sSecendTeamName" : "Sco"
-    },
-    "13" : {
-      "sDateText" : "Super 12   18 October 2021",
-      "sFastImageView" : "https://dailylivescores.com/wp-content/uploads/2019/09/flag-button-round-250.png",
-      "sFastOver" : "",
-      "sFastScore" : "",
-      "sFastTeamName" : "Aus",
-      "sResultText" : "Group 1",
-      "sResultUrl" : "",
-      "sSecendImageview" : "https://cdn.bleacherreport.net/images/team_logos/328x328/pakistan_cricket.png",
-      "sSecendOver" : "",
-      "sSecendScore" : "",
-      "sSecendTeamName" : "Pak"
     }
   }
   
